@@ -1,0 +1,187 @@
+/*usei uma margem de espaço para melhor a visualização, dividindo em três partes. Como a parte geral da estilização, parte central e final */
+
+
+
+
+
+
+
+
+
+
+
+/* Parte geral */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.ContainerPrincipal{
+    width: 1120px;
+    height: 3054px;
+    margin: auto;
+    
+    
+}
+
+
+
+
+
+
+
+/* Parte Central */
+
+.SecondContainer{
+    margin-top: 88px;
+    margin-bottom: 88px;
+
+}
+
+.CardsDescricoes{
+    width: 100%;
+    height: 729px;
+
+}
+
+.informativo p {
+    text-align:center;
+    font-size: 16px;
+}
+
+.titulo{
+    height: 79px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.titulo h1{
+    font-size: 36px;
+}
+
+.titulo p {
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #E1624F;
+    font-size: 16px;
+}
+
+img{
+    width: 100%;
+    height: 660px;
+    margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Parte central 2 */
+
+.DestinosImperdiveis{
+    width: 100%;
+    height: 2020px;
+}
+
+header{
+    margin: 64px 0px;
+    height: 164px;
+    margin-top: 190px;
+}
+
+header h4 {
+    font-weight: bold;
+    color: #E1624F;
+    font-size: 16px;
+    
+}
+
+header h2{
+    
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+header p{
+    font-size: 16px;
+    
+}
+
+.CardDestinos{
+    margin-bottom: 48px;
+}
+
+.IMGCardDestinos{
+    width: 100%;
+    height: 350px;
+}
+
+.InformacoesIMG{
+    height: 110px;
+}
+
+.InformacoesIMG h2{
+    margin-left: 10px;
+}
+
+.InformacoesIMG article{
+    font-size: 16px;
+}
+
+.InformacoesIMG p{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+li{
+    font-size: 16px;
+    color: #0C51A7;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Parte final */
+
+footer{
+    margin-top: 160px;
+}
+
+footer article{
+    font-family: "Open Sans", serif;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 65px;
+    text-align: center;
+}
+
+.icon{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-bottom: initial;
+    
+}
